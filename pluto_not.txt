@@ -1,0 +1,7 @@
+Orbit tilted to the ecliptic.
+
+Orbit of high eccentricity.
+
+Has not policed its orbit.
+
+......
