@@ -1,5 +1,6 @@
 # planets
 Demo for SW Carpentry
 
-hi :)
+howdy :)
 My superhero name is Dr. Awesome!
+
